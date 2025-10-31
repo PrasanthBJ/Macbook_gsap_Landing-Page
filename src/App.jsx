@@ -18,7 +18,7 @@ const App = () => {
       <Hero/>
       <ProductViewer/>
       <ShowCase/>
-      <Performance/>
+      <Performance />
       <Features/>
       <Highlights/>
       <Footer/>
